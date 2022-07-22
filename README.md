@@ -1,6 +1,6 @@
 # ![image](https://user-images.githubusercontent.com/43144939/180423790-ccd0f415-ee86-4681-b4f4-8b4a029e2292.png)
 <p align="center">
-  <img align="center" src="https://user-images.githubusercontent.com/43144939/180423881-cff927e3-28ae-401f-b11c-6460370fe821.png" width="400"/>
+  <a href="https://grafana.com/" target="_blank" ><img align="center" src="https://user-images.githubusercontent.com/43144939/180423881-cff927e3-28ae-401f-b11c-6460370fe821.png" width="400"/></a>
 </p>
 
 ## Proposta
