@@ -59,3 +59,5 @@ Com os arquivos no excel, foi possível salva-los como .csv para importa-los num
 ![image](https://user-images.githubusercontent.com/43144939/180428843-8763d0ed-9d61-428f-9577-d47ec4119ec1.png)
 
 ![image](https://user-images.githubusercontent.com/43144939/180428858-e4ee04e4-d6c9-4c5f-b37c-3ca153a10181.png)
+
+É possível importar esses dashboard's no grafana através [deste arquivo](/GrafanaDashboard.json)
